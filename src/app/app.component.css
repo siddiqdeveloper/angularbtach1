@@ -1,0 +1,20 @@
+.centre{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centre li{
+    display: flex;
+    margin: 30px;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+a:hover{
+color: rgba(34, 108, 204, 0.832);
+
+
+
+}
